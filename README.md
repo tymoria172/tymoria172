@@ -19,11 +19,26 @@
   <img align="center" alt="Rafa-Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Rafa-Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Rafa-Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
+  
+  <img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-plain.svg">
+  
+    
+  <img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original-wordmark.svg">
+  
+    
+  <img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg">
+  
+  <img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original-wordmark.svg">
+  
+  <img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/spring/spring-original.svg">
+  <img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/heroku/heroku-original-wordmark.svg">
+  
+ 
  
   ##
  
 <div> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:andre.ricardo2115@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   
  
